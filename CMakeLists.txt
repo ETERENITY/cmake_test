@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.11)
+project(mytest)
+set(CMAKE_BUILD_TYPE DEBUG)
+add_subdirectory(${PROJECT_SOURCE_DIR}/add)
+add_executable(test test.cpp)
+target_link_libraries(test addf)
