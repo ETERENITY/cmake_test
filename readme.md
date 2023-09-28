@@ -53,16 +53,16 @@ string &operator+(const string& A,const string& B) //cpp
 :blush:
 
 ```
-+ 人闲桂花落，
++人闲桂花落，
 ```
 ```
-- 夜静春山空。
+-夜静春山空。
 ```
 ```
-! 月出惊山鸟，
+!月出惊山鸟，
 ```
 ```
-# 时鸣春涧中。
+#时鸣春涧中。
 ```  
 <details>
 <summary>Linux环境</summary>
