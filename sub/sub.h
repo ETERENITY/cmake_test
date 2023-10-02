@@ -1,2 +1,2 @@
 #pragma once
-int sub(int x, int y);
+__declspec(dllexport) int sub(int x, int y);
